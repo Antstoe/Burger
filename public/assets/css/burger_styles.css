@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Creepster|Chicle|Jolly+Lodger');
+
+h1 {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.page-footer {
+  background-color: purple !important;
+  color: black !important;
+}
+
+body {
+  background-color: #b24926;
+}
+
+#burger_name {
+  background-color: white;
+}
+
+#bizname {
+  font-family: 'Creepster', cursive;
+}
+
+#hungryquest {
+  font-family: 'Chicle', cursive;
+}
+#title2, #title3 {
+  font-family: 'Jolly Lodger', cursive;
+  font-size: 3em;
+}
+textarea {
+    padding-top: .75em;
+    white-space: normal;
+    text-align: justify;
+    -moz-text-align-last: center; /* Firefox 12+ */
+    text-align-last: center;
+}
